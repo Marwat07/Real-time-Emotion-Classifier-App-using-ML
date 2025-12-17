@@ -1,0 +1,40 @@
+Positive Emotions:
+
+Joy/Happy:
+
+"I am so happy and excited about my vacation next week!"
+"This is the best day of my life!"
+"I can't stop smiling, I'm just so full of joy."
+Surprise:
+
+"Wow, I can't believe I won the lottery!"
+"I'm astonished by the beautiful sunset."
+"This is an unexpected but wonderful surprise."
+Negative Emotions:
+
+Anger:
+
+"I am so angry right now, I can't believe you did that!"
+"This is frustrating and unacceptable."
+"I'm furious about the terrible service I received."
+Sadness:
+
+"I feel so down and lonely today."
+"It's a sad day, I miss my friend."
+"I'm heartbroken after hearing the news."
+Fear:
+
+"I am scared of the dark and what might be hiding in it."
+"That loud noise was terrifying."
+"I'm afraid of what might happen next."
+Disgust:
+
+"That's a disgusting smell."
+"I'm repulsed by his behavior."
+"The sight of it made me feel sick."
+Neutral Emotion:
+
+Neutral:
+"The weather is nice today."
+"I am going to the store to buy some groceries."
+"The meeting is scheduled for 3 PM."
